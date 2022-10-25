@@ -1,0 +1,1 @@
+console.log("Noam Chomsky"+' '+"once said,"+' '+"We shouldnot be looking for heroes, we should be looking for good ideas.");
